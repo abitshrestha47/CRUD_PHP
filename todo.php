@@ -32,7 +32,8 @@
     <tr>
       <th scope="col">ID</th>
       <th scope="col">To Do</th>
-      <th colspan="2" scope="col" >Action</th> 
+      <th scope="col" >Action</th>
+      <th scope="col">Edit</th> 
     </tr>
   </thead>
   <tbody>
